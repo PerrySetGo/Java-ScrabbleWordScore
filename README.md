@@ -1,4 +1,4 @@
-# _Rock Paper Scissors_
+# _Scrabble Word Score_
 
 ##### _An app that accurately calculates a word's scrabble score.  08/12/2015_
 
